@@ -1,0 +1,8 @@
+{
+  "name": "tpcmcccccppc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:davidwarrington/tpcmcccccppc",
+  "author": "davidwarrington <davidmwarrington+github@gmail.com>",
+  "license": "MIT"
+}
